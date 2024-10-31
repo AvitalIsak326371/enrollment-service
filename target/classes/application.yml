@@ -1,0 +1,5 @@
+
+coursesService: 'http://localhost:8084'
+studentsService: 'http://localhost:8086'
+addStudent: '/api/students'
+addCoursesListForStudent: '/api/courses/addCoursesList'
